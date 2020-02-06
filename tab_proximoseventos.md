@@ -1,9 +1,10 @@
 ---
-title: Próximos Eventos
+title: CurrentEvent
 layout:  null
+displaytext: Próximos Eventos
 tab: true
 order: 1
-tags: eventos
+tags: eventos owasppb
 ---
 
 ## Próximos Eventos
