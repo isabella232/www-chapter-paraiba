@@ -1,9 +1,11 @@
 ---
 
 layout: col-sidebar
-title: OWASP Paraíba
+title: OWASP Paraíba (BR)
 tags: chapter paraiba owasppb
-region: Brazil
+level: 4
+
+region: South America
 
 ---
 
