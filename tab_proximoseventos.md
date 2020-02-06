@@ -1,5 +1,5 @@
 ---
-title: CurrentEvent
+title: ProximosEventos
 layout:  null
 displaytext: Próximos Eventos
 tab: true
