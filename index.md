@@ -7,7 +7,10 @@ region: Brazil
 
 ---
 
+![OWASPPB](/assets/images/logo.png)
+
 ## Welcome
+
 Welcome to the Paraiba chapter homepage. The chapter leader is [Humberto Junior](mailto:humberto.junior@owasp.org).
 
 ## Participation
