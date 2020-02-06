@@ -4,6 +4,6 @@
 * Icaro Torres
 * Luan Pacote
 * Vitor Hugo
-* Jessé
+* Jessé Neto
 * Thiago d'França 
 
