@@ -20,6 +20,14 @@ Evento focado em Segurança de Aplicações
 * 09:20 -> OWASP: Explorando o Top 10 (Vitor Fernandes)
 * 11:00 -> Code review - Porque fazer e como começar (Luan Souza)
 
+**Palestrantes**
+
+Luan Souza
+
+![Luan](/assets/images/luan_souza.jpg)
+
+Information security analyst with a focus in appsec and more than 5 years of experience in this area, likes do pentest in web application, code review and  threat modeling.
+
 
 **Maiores informações:**
 
