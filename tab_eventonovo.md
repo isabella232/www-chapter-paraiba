@@ -1,17 +1,15 @@
 ---
-title: Eventonovo
+title: EventoNovo
 layout:  null
 displaytext: Novos Eventos
 tab: true
 order: 1
-tags: eventos owasppb
+tags: owasppb
 ---
 
-## Próximos Eventos
+### Próximos Eventos
 
-### Details
-
-OWASP Paraíba Day
+**OWASP Paraíba Day 2020-1**
 
 Date: 21/03/2020
 Local: Uniesp - João Pessoa - Paraíba
