@@ -26,7 +26,7 @@ Luan Souza
 
 ![Luan](/assets/images/luan_souza.jpg)
 
-Information security analyst with a focus in appsec and more than 5 years of experience in this area, likes do pentest in web application, code review and  threat modeling.
+_Information security analyst with a focus in appsec and more than 5 years of experience in this area, likes do pentest in web application, code review and  threat modeling._
 
 
 **Maiores informações:**
