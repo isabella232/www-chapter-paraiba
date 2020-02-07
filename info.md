@@ -9,5 +9,6 @@ Informações sobre o Estado podem ser encontradas no endereço:
 * [Meetup](https://www.meetup.com/pt-BR/OWASP-Paraiba-Chapter/)
 * [Facebook](https://www.facebook.com/owasppb/)
 * [Linkedin](https://www.linkedin.com/company/owasppb/)
+* [Telegram](https://t.me/owasppb)
 
 
