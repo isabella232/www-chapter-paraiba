@@ -1,7 +1,7 @@
 ---
 title: Eventonovo
 layout:  null
-displaytext: Próximos Eventos
+displaytext: Novos Eventos
 tab: true
 order: 1
 tags: eventos owasppb
