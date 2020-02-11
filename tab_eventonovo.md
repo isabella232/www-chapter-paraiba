@@ -28,6 +28,12 @@ Luan Souza
 
 _Information security analyst with a focus in appsec and more than 5 years of experience in this area, likes do pentest in web application, code review and  threat modeling._
 
+Vitor Fernandes
+
+![Vitor](/www-chapter-paraiba/assets/images/pp.jpg)
+
+_Information Security Analyst with focus on Web Application Penetration Testing. I like to participate of Bug Bounty programs in a part of my free time, learn new skills and share some techniques and tricks on my personal blog._
+
 
 **Maiores informações:**
 
