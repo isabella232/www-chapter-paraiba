@@ -6,6 +6,9 @@ tags: chapter paraiba owasppb
 level: 4
 
 region: South America
+meetup-group: OWASP-Paraiba-Chapter
+country: Brazil
+postal-code: 
 
 ---
 
