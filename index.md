@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Paraíba (BR)
+title: OWASP Paraíba 
 tags: chapter paraiba owasppb
 level: 4
 
