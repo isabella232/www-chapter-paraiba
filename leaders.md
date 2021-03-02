@@ -1,7 +1,7 @@
 ### Leaders
 
 * [Humberto Junior](mailto:humberto.junior@owasp.org)
-* Icaro Torres
+* [Icaro Torres] (mailto:icaro.redes.ifpb@gmail.com)
 * Luan Pacote
 * Vitor Hugo
 * Jessé Neto
