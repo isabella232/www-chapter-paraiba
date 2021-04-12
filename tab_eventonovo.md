@@ -16,15 +16,13 @@ Local: Youtube Channel
 
 Evento focado em Segurança de Aplicações
 
-* 19:00 -> Code review - Porque fazer e como começar (Luan Souza)
+* 20:00 -> OWASP Top 10 e boas práticas de desenvolvimento seguro
 
 **Palestrantes**
 
-Luan Souza
-
-![Luan](/www-chapter-paraiba/assets/images/luan_souza.jpg)
-
-_Information security analyst with a focus in appsec and more than 5 years of experience in this area, likes do pentest in web application, code review and  threat modeling._
+Cristian Souza. Desenvolvedor back-end, pesquisador e instrutor de segurança da informação
+https://linkedin.com/in/crhenr
+https://twitter.com/crhenr
 
 **Maiores informações:**
 
